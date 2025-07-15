@@ -6,7 +6,7 @@ title: My Workshop 2025
 # My Workshop 2025
 
 <p align="center">
-  <img src="assets/example.jpg" alt="Workshop banner" width="600">
+  <img src="assets/example.png" alt="Workshop banner" width="600">
 </p>
 
 
