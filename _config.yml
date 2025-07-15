@@ -1,0 +1,8 @@
+title: My Workshop 2026
+description: A small research workshop on PDEs and Machine Learning
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - schedule.md
